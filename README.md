@@ -16,7 +16,7 @@ Before running the scripts, please install fairseq dependencies by:
 Please also follow the readmes under folder raw_data and mbart.cc25 to download raw data and pretrained model.
 (Notes: Our models were trained on 4 GPUs. If you trained them on 2 GPUs, in theory you could double the number for argument --update-freq. However, we haven't tested such settings.)
 
-##Edit by Hoangvv8
+## Edit by Hoangvv8
 * Evaluate with add TF-IDF Score to grouping multiple sentences as a group
 * In mode Training and Testing, Hoangvv8 add parameters --tf_idf_mode enable --tf_idf_score 0.8 in file run-randinit.sh
 
