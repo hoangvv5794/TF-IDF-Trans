@@ -1,0 +1,30 @@
+[2023-12-13 14:58:36,308 INFO] Building segmented data: Namespace(corpuses='test,valid,train', source_lang='en', target_lang='de', datadir='exp_randinit/iwslt17.tokenized.en-de', destdir='exp_randinit/iwslt17.segmented.en-de/', max_sents=1000, max_tokens=512, min_train_doclen=-1, divided_group_sentences=3, no_special_tok=False, tempdir='exp_randinit/iwslt17.segmented.en-de/tmp')
+[2023-12-13 14:58:36,336 INFO] Processed 23 documents of test with a max_len of 512.
+[2023-12-13 14:58:36,354 INFO] Saved 123 lines into exp_randinit/iwslt17.segmented.en-de/test.en
+[2023-12-13 14:58:36,373 INFO] Saved 123 lines into exp_randinit/iwslt17.segmented.en-de/test.de
+[2023-12-13 14:58:36,475 INFO] Processed 93 documents of valid with a max_len of 512.
+[2023-12-13 14:58:36,530 INFO] Saved 483 lines into exp_randinit/iwslt17.segmented.en-de/valid.en
+[2023-12-13 14:58:36,585 INFO] Saved 483 lines into exp_randinit/iwslt17.segmented.en-de/valid.de
+[2023-12-13 14:58:38,679 INFO] Processed 1698 documents of train with a max_len of 512.
+[2023-12-13 14:58:39,663 INFO] Saved 11193 lines into exp_randinit/iwslt17.segmented.en-de/train.en
+[2023-12-13 14:58:40,631 INFO] Saved 11193 lines into exp_randinit/iwslt17.segmented.en-de/train.de
+[2023-12-13 15:03:38,676 INFO] Building segmented data: Namespace(corpuses='test,valid,train', source_lang='en', target_lang='de', datadir='exp_randinit/iwslt17.tokenized.en-de', destdir='exp_randinit/iwslt17.segmented.en-de/', max_sents=1000, max_tokens=512, min_train_doclen=-1, divided_group_sentences=3, no_special_tok=False, tempdir='exp_randinit/iwslt17.segmented.en-de/tmp')
+[2023-12-13 15:03:38,729 INFO] Processed 23 documents of test with a max_len of 512.
+[2023-12-13 15:03:38,760 INFO] Saved 123 lines into exp_randinit/iwslt17.segmented.en-de/test.en
+[2023-12-13 15:03:38,799 INFO] Saved 123 lines into exp_randinit/iwslt17.segmented.en-de/test.de
+[2023-12-13 15:03:39,008 INFO] Processed 93 documents of valid with a max_len of 512.
+[2023-12-13 15:03:39,094 INFO] Saved 483 lines into exp_randinit/iwslt17.segmented.en-de/valid.en
+[2023-12-13 15:03:39,180 INFO] Saved 483 lines into exp_randinit/iwslt17.segmented.en-de/valid.de
+[2023-12-13 15:03:41,824 INFO] Processed 1698 documents of train with a max_len of 512.
+[2023-12-13 15:03:42,873 INFO] Saved 11193 lines into exp_randinit/iwslt17.segmented.en-de/train.en
+[2023-12-13 15:03:44,009 INFO] Saved 11193 lines into exp_randinit/iwslt17.segmented.en-de/train.de
+[2023-12-13 15:04:36,665 INFO] Building segmented data: Namespace(corpuses='test,valid,train', source_lang='en', target_lang='de', datadir='exp_randinit/iwslt17.tokenized.en-de', destdir='exp_randinit/iwslt17.segmented.en-de/', max_sents=1000, max_tokens=512, min_train_doclen=-1, divided_group_sentences=3, no_special_tok=False, tempdir='exp_randinit/iwslt17.segmented.en-de/tmp')
+[2023-12-13 15:04:36,696 INFO] Processed 23 documents of test with a max_len of 512.
+[2023-12-13 15:04:36,719 INFO] Saved 123 lines into exp_randinit/iwslt17.segmented.en-de/test.en
+[2023-12-13 15:04:36,739 INFO] Saved 123 lines into exp_randinit/iwslt17.segmented.en-de/test.de
+[2023-12-13 15:04:36,840 INFO] Processed 93 documents of valid with a max_len of 512.
+[2023-12-13 15:04:36,903 INFO] Saved 483 lines into exp_randinit/iwslt17.segmented.en-de/valid.en
+[2023-12-13 15:04:36,969 INFO] Saved 483 lines into exp_randinit/iwslt17.segmented.en-de/valid.de
+[2023-12-13 15:04:39,375 INFO] Processed 1698 documents of train with a max_len of 512.
+[2023-12-13 15:04:40,566 INFO] Saved 11193 lines into exp_randinit/iwslt17.segmented.en-de/train.en
+[2023-12-13 15:04:41,852 INFO] Saved 11193 lines into exp_randinit/iwslt17.segmented.en-de/train.de
